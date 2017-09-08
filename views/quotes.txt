@@ -1,0 +1,75 @@
+"Outlook not so good." That magic 8-ball knows everything! I'll ask about Exchange Server next. -- (Stolen from the net)
+"You know, maybe we don't *need* enemies." "Yeah, best friends are about all I can take." -- Calvin & Hobbes
+All problems are easy in retrospect.
+Being able to learn is a great learning; being able to unlearn is a greater learning.
+Caffeine underflow. Brain dumped.
+Claiming that your operating system is the best in the world because more people use it is like saying McDonalds makes the best food in the world. -- Carl B. Constantine
+Computers are like a jungle: they have monitor lizards, rams, mice, c-moss, binary trees... and bugs.
+Creativity is not an excuse for sloppiness.
+Customer support: the art of getting your clients to pay for your own incompetence.
+Debian GNU/Linux: Cray on your desktop.
+Dogs have owners ... cats have staff. -- Krista Casada
+Don't modify spaghetti code unless you can eat the consequences.
+EMACS = Extremely Massive And Cumbersome System
+Genius may have its limitations, but stupidity is not thus handicapped. -- Elbert Hubbard
+He who laughs last thinks slowest.
+He who sacrifices functionality for ease of use, loses both and deserves neither. -- Slashdotter
+I'm not childish; I'm just in touch with the child within! -- RL
+I've been around long enough to have seen an endless parade of magic new techniques du jour, most of which purport to remove the necessity of thought about your programming problem.  In the end they wind up contributing one or two pieces to the collective wisdom, and fade away in the rearview mirror. -- Walter Bright
+IBM = I Blame Microsoft
+If it breaks, you get to keep both pieces. -- Software disclaimer notice
+If you think you are too small to make a difference, try sleeping in a closed room with a mosquito. -- Jan van Steenbergen
+In order to understand recursion you must first understand recursion.
+It is impossible to make anything foolproof because fools are so ingenious. -- Sammy
+It is not the employer who pays the wages. Employers only handle the money. It is the customer who pays the wages. -- Henry Ford
+It's bad luck to be superstitious. -- YHL
+Lawyer: (n.) An innocence-vending machine, the effectiveness of which depends on how much money is inserted.
+Life is all a great joke, but only the brave ever get the point. -- Kenneth Rexroth
+Life is complex. It consists of real and imaginary parts. -- YHL
+Life is too short to run proprietary software. -- Bdale Garbee
+LINUX = Lousy Interface for Nefarious Unix Xenophobes.
+MACINTOSH: Most Applications Crash, If Not, The Operating System Hangs
+Marketing: the art of convincing people to pay for what they didn't need before which you can't deliver after
+Never step over a puddle, always step around it. Chances are that whatever made it is still dripping.
+Never trust an operating system you don't have source for! -- Martin Schulze
+No, John.  I want formats that are actually useful, rather than over-featured megaliths that address all questions by piling on ridiculous internal links in forms which are hideously over-complex. -- Simon St. Laurent on xml-dev
+Obviously, some things aren't very obvious.
+One disk to rule them all, One disk to find them. One disk to bring them all and in the darkness grind them. In the Land of Redmond where the shadows lie. -- The Silicon Valley Tarot
+One reason that few people are aware there are programs running the internet is that they never crash in any significant way: the free software underlying the internet is reliable to the point of invisibility. -- Glyn Moody, from the article "Giving it all away"
+One Word to write them all, One Access to find them, One Excel to count them all, And thus to Windows bind them. -- Mike Champion
+People demand freedom of speech to make up for the freedom of thought which they avoid. -- Soren Aabye Kierkegaard (1813-1855)
+People tell me that I'm paranoid, but they're just out to get me.
+People tell me that I'm skeptical, but I don't believe it.
+Political correctness: socially-sanctioned hypocrisy.
+Real men don't take backups. They put their source on a public FTP-server and let the world mirror it. -- Linus Torvalds
+Right now I'm having amnesia and deja vu at the same time. I think I've forgotten this before.
+Skill without imagination is craftsmanship and gives us many useful objects such as wickerwork picnic baskets. Imagination without skill gives us modern art. -- Tom Stoppard
+Some days you win; most days you lose.
+Some ideas are so stupid that only intellectuals could believe them. -- George Orwell
+Talk is cheap. Whining is actually free. -- Lars Wirzenius
+That's not a bug; that's a feature!
+The best compiler is between your ears. -- Michael Abrash
+The most powerful one-line C program: #include "/dev/tty" -- IOCCC
+The number you have dialed is imaginary. Please rotate your phone 90 degrees and try again.
+The problem with the world is that everybody else is stupid.
+The richest man is not he who has the most, but he who needs the least.
+The trouble with TCP jokes is that it's like hearing the same joke over and over.
+There are only two hard things in Computer Science: cache invalidation and naming things. -- Phil Karlton
+Time flies like an arrow. Fruit flies like a banana.
+Too many people have open minds but closed eyes.
+Trying to define yourself is like trying to bite your own teeth. -- Alan Watts
+We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare.  Now, thanks to the Internet, we know this is not true. -- Robert Wilensk
+What do you mean the Internet isn't filled with subliminal messages? What about all those buttons marked "submit"??
+You are only young once, but you can stay immature indefinitely. -- azephrahel
+Philosophy: how to make a career out of daydreaming
+Indifference will certainly be the downfall of mankind, but who cares? -- Miquel van Smoorenburg
+Microsoft is to operating systems & security ... what McDonalds is to gourmet cooking.
+If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time. -- G. K. Chesterton
+Help a man when he is in trouble and he will remember you when he is in trouble again.
+Windows 95 was a joke, and Windows 98 was the punchline.
+There are only two hard things in Computer Science: cache invalidation and naming things -- Phil Karlton
+There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors
+Arise, you prisoners of Windows / Arise, you slaves of Redmond, Wash, / The day and hour soon are coming / When all the IT folks say "Gosh!" / It isn't from a clever lawsuit / That Windowsland will finally fall, / But thousands writing open source code / Like mice who nibble through a wall. -- The Linux-nationale by Greg Baker
+It said to install Windows 2000 or better, so I installed Linux instead.
+"I'm running Windows '98." "Yes." "My computer isn't working now." "Yes, you already said that." -- User-Friendly
+Valentine's Day: an occasion for florists to reach into the wallets of nominal lovers in dire need of being reminded to profess their hypothetical love for their long-forgotten.
