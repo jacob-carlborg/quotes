@@ -4,6 +4,8 @@ authors "Jacob Carlborg"
 copyright "Copyright © 2017, Jacob Carlborg"
 license "BSL 1.0"
 
+lflags "-static" platform="linux"
+
 dependency "diet-ng" version="~>1.4.3"
 dependency "vibe-d:core" version="~>0.8.1"
 dependency "vibe-d:http" version="~>0.8.1"
